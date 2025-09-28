@@ -67,6 +67,11 @@ h2 {
     color: white;
 }
 
+/* Add space below content buttons to avoid sticking to footer */
+.section .btn {
+    margin-bottom: 1.5rem;
+}
+
 /* Navbar */
 
 #navbar {
